@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadanieDoEgzaminu2", "ZadanieDoEgzaminu2\ZadanieDoEgzaminu2.csproj", "{D35E8114-1812-42D8-BD15-0C1845E9DBD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestKsiazki", "TestKsiazki\TestKsiazki.csproj", "{3C4D52CB-0FE7-4D80-B120-9F8AD68FF0EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D35E8114-1812-42D8-BD15-0C1845E9DBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D35E8114-1812-42D8-BD15-0C1845E9DBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D35E8114-1812-42D8-BD15-0C1845E9DBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4D52CB-0FE7-4D80-B120-9F8AD68FF0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4D52CB-0FE7-4D80-B120-9F8AD68FF0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4D52CB-0FE7-4D80-B120-9F8AD68FF0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4D52CB-0FE7-4D80-B120-9F8AD68FF0EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ZadanieDoEgzaminu2
 {
-    internal class Strona
+    public class Strona
     {
         public string trescStrony;
         public uint numerStrony;
-        public uint licznikStron;
+        public static uint licznikStron = 0;
 
         public Strona (string trescStrony, uint numerStrony)
         {
